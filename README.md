@@ -3,7 +3,7 @@ walmart sales data analysis
 
 ## Project steps  
 
-1. Set Up Kaggle API 
+**1. Set Up Kaggle API**
 
 API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file. 
 
