@@ -13,7 +13,7 @@ walmart sales data analysis
 
    * Use the command kaggle datasets download -d <dataset-path> to pull datasets directly into your project. 
 
-###**2. Download Walmart Sales Data** 
+### **2. Download Walmart Sales Data** 
 
 * **Data Source:** Use the Kaggle API to download the Walmart sales datasets from Kaggle. 
 
